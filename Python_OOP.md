@@ -22,7 +22,7 @@ Python은 객체라고 말하며 Language의 입장에서는 Python은
 Language의 인스턴스라고 말할수 있습니다.
 
 
-OOP의 특징
+## OOP의 특징
 
 ### 다형성
 
